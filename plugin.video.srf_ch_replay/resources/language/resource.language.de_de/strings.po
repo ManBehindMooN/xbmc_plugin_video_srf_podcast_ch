@@ -14,7 +14,7 @@ msgstr "Abzahl Episodes pro Seite anzeigen"
 
 msgctxt "#30005"
 msgid "Older episodes (page {0} of {1})"
-msgstr "Ältere Folgen (Seite {0} von {1})"
+msgstr "Next page"
 
 msgctxt "#30006"
 msgid "Unexpected error"

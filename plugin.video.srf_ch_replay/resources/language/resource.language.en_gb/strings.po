@@ -13,7 +13,7 @@ msgid "Number of episodes shown per page"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Older episodes (page {0} of {1})"
+msgid "Next page"
 msgstr ""
 
 msgctxt "#30006"
